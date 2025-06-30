@@ -18,7 +18,7 @@ Projects span different domains such as software development, game design, AI, a
 ## 🎮​ Pomegranade: Limbo 👨‍💻​
 
 <p align="center">
-  <img src="link-to-image.jpg" 
+  <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/GameLogo.png" 
   alt="Representative Image" width="350"/>
 </p>
 
@@ -45,12 +45,14 @@ The course is part of the Master’s Degree in **Computer Science** at the **Uni
 
 The game also features a **dynamic day–night cycle**, randomized debuffs, and a communication system based on customizable **emoticons**, encouraging strategy and emotional expression without relying on voice chat.
 
-For more details on the game design and especially the implementation of the working prototype, see the full Game Design Document (GDD) linked below.
+For more details on the game design and especially the implementation of the working prototype, see the full Game Design Document (GDD) and the Game Technical Document (GTD) linked below.
 
 ### 🔗 Useful Links
 - 🎞️ [Trailer Video](https://www.youtube.com/watch?v=iTNlmDLAY84)
 - 🎞️ [Gameplay Video](https://www.youtube.com/watch?v=KJZ43R5dVLI)
-- 📄 [OGD Course Page](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/online-game-design)
+- 📄 [GDD]()
+- 📄 [GTD]()
+- 🌐 [OGD Course Page](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/online-game-design)
 - 🌐 [NGD Page](http://ngd.unimi.it/)
 
 ---
@@ -58,7 +60,7 @@ For more details on the game design and especially the implementation of the wor
 ## 🎮​ MegaMan Battle Network – Full Synchro 👨‍💻
 
 <p align="center">
-  <img src="link-to-image.jpg" 
+  <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/MMBN_TitleScreen_Showcase.png" 
   alt="Representative Image" width="350"/>
 </p>
 
