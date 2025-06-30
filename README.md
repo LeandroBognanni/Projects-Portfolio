@@ -50,8 +50,8 @@ For more details on the game design and especially the implementation of the wor
 ### 🔗 Useful Links
 - 🎞️ [Trailer Video](https://www.youtube.com/watch?v=iTNlmDLAY84)
 - 🎞️ [Gameplay Video](https://www.youtube.com/watch?v=KJZ43R5dVLI)
-- 📄 [GDD]()
-- 📄 [GTD]()
+- 📄 [GDD](https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Documents/GDD.pdf)
+- 📄 [GTD](https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Documents/GTD.pdf)
 - 🌐 [OGD Course Page](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/online-game-design)
 - 🌐 [NGD Page](http://ngd.unimi.it/)
 
