@@ -147,7 +147,7 @@ The game features:
 The project emphasizes tight mechanic integration, immersive VR interaction, and procedural variability—paying tribute to the original GBA titles while adapting them into a modern, room-scale VR experience.
 
 ### 🔗 Useful Links  
-- 🎞️ [Demo Video](https://youtu.be/_tBflqcJfOI?si=eE_IQJeeLZzxlxhA)  
+- 🎞️ [Trailer Video](https://youtu.be/_tBflqcJfOI?si=eE_IQJeeLZzxlxhA)  
 - 🌐 [Virtual Reality Course Page](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/realta-virtuale)  
 
 ---
