@@ -93,6 +93,8 @@ The game is built around the use of **spatialized audio** as the primary gamepla
 
 The prototype currently features a fixed map and basic enemy AI, with plans for future procedural level generation, multiple NPC archetypes, and progressively complex sound environments.
 
+### 🔗 Useful Links
+- 🌐 [Sound In Interaction Course Page](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/sound-interaction)
 
 ---
 
@@ -135,6 +137,45 @@ The project emphasizes tight mechanic integration, immersive VR interaction, and
 ### 🔗 Useful Links  
 - 🎞️ [Demo Video](https://youtu.be/_tBflqcJfOI?si=eE_IQJeeLZzxlxhA)  
 - 📄 [Virtual Reality Course Page](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/realta-virtuale)  
+
+---
+
+## 🎮​ Drunk Stride 👨‍💻​
+
+<p align="center">
+  <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/DrunkStrider.png" 
+  alt="Representative Image" width="350"/>
+</p>
+
+### 🎯 Purpose  
+This project was developed as the assigned exercise for the **Artificial Intelligence for Video Games** course.
+
+The course is part of the Master’s Degree in **Computer Science** at the **University of Milan**, and focuses on the design and implementation of AI systems within interactive virtual environments.  
+Topics include AI architecture in game engines, decision-making models, movement and pathfinding, procedural content generation, and introductory techniques in **machine learning** and **genetic algorithms** applied to game development.
+
+### 🛠️ Technologies Used  
+- Language: `C#`  
+- Game Engine: `Unity`  
+- Tools & Platforms:  
+  - `GitHub` (for version control)
+
+### 🎫 Project Description  
+**Drunk Stride** is a simple AI-based simulation developed in Unity. The objective is to create an autonomous agent that continuously moves across a platform **without ever walking in a straight line**.
+
+The character (a “drunk” NPC) alternates left and right circular motions with **randomly selected radii** and **time intervals**, simulating unsteady, unpredictable movement. At every change, a new radius and rotation direction (left or right) are chosen, ensuring that the agent constantly adapts its path while maintaining a **fixed speed** of 1 m/s.
+
+Key features:
+- Circular motion around dynamically updated pivot points  
+- Full compliance with movement constraints: the agent never stops or exits the platform regardless of shape or size  
+- Modular architecture: components like rotation control, movement logic, and gaze direction are handled by separate scripts  
+- Minimalist top-down scene for focused testing
+
+The project was completed individually and aimed to demonstrate understanding of **behavioral scripting**, **randomized decision logic**, and Unity-based agent control systems.
+For more information see the **Project Report** linked below.
+
+### 🔗 Useful Links  
+- 🌐 [AI for Video Games Course Page](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/artificial-intelligence-video-games)  
+- 📄 [Project Report](https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Documents/DrunkStride-Report.pdf)
 
 ---
 
