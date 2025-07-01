@@ -180,3 +180,58 @@ For more information see the **Project Report** linked below.
 
 ---
 
+## 🎮​ Masters of Renaissance – Digital Edition (Java Multiplayer) 👨‍💻​
+
+<p align="center">
+  <img src="https://i2.wp.com/www.balenaludens.it/wp-content/uploads/2019/12/maestri-del-rinascimento.jpg?resize=1024%2C600&ssl=1" 
+  alt="Representative Image" width="350"/>
+</p>
+
+### 🎯 Purpose  
+This project was developed as the final team assignment for the **Software Engineering** course during the Bachelor's Degree in **Computer Engineering** at **Politecnico di Milano**.
+
+The course focused on the application of **software engineering principles**, emphasizing structured design, documentation, and best practices in object-oriented development.  
+Students were required to start from **UML diagrams** and implement a complete system using the **Model-View-Controller (MVC)** architectural pattern, integrating concepts such as layered architecture, design patterns, testing, and multi-user client-server communication.
+
+### 🛠️ Technologies Used  
+- Language: `Java`  
+- Architecture: `Model-View-Controller (MVC)`  
+- Networking: `Sockets` (low-level TCP communication)  
+- UI:  
+  - `Swing` (Graphical User Interface)  
+  - `Command Line Interface (CLI)`  
+- Build Tool: `Maven`  
+- Testing: `JUnit 5`  
+- Tools:  
+  - `GitHub` (version control, project collaboration)
+
+### 🎫 Project Description  
+**Masters of Renaissance – Digital Edition** is a full digital multiplayer adaptation of the board game *Masters of Renaissance*.  
+The project supports both **GUI** and **CLI** user interfaces and allows players to connect to a shared server instance via socket communication.
+
+Key features include:
+- Full rule implementation of the original game
+- Multiple concurrent game sessions hosted on the same server
+- Advanced functionalities such as:
+  - **Disconnection resilience** (players can reconnect mid-game)
+  - **Lobby system for parallel matches**
+  - **Game parameter editor**: A dedicated GUI tool to modify development card properties, leader card effects, faith track, and more
+
+The game follows a strict **MVC pattern** with a fully decoupled design.  
+UML diagrams (both initial and final versions) were produced and maintained, and the codebase is fully documented via **JavaDoc**, alongside a complete **coverage report** of unit tests.
+
+This project was developed in a team of three:
+
+- [Niccolò Bergamaschi](https://github.com/Niccolo-Bergamaschi)  
+- [Leandro Bognanni](https://github.com/LeandroBognanni)  
+- [Gabriele Brenna](https://github.com/Gabriele-Brenna)
+
+### 🔗 Useful Links  
+- 🔗 [GitHub Repository](https://github.com/Gabriele-Brenna/ingswAM2021-Bognanni-Brenna-Bergamaschi)  
+- 📄 [JavaDoc Documentation](https://github.com/Gabriele-Brenna/ingswAM2021-Bognanni-Brenna-Bergamaschi/tree/main/Deliveries/JavaDoc)  
+- 📊 [Coverage Report](https://github.com/Gabriele-Brenna/ingswAM2021-Bognanni-Brenna-Bergamaschi/tree/main/Deliveries/Report)  
+- 🧩 [Initial UML](https://github.com/Gabriele-Brenna/ingswAM2021-Bognanni-Brenna-Bergamaschi/tree/main/Deliveries/UML/initialUML)  
+- 🧩 [Final UML](https://github.com/Gabriele-Brenna/ingswAM2021-Bognanni-Brenna-Bergamaschi/tree/main/Deliveries/UML/finalUML)  
+- 🧪 [JAR Executables](https://github.com/Gabriele-Brenna/ingswAM2021-Bognanni-Brenna-Bergamaschi/tree/main/Deliveries/Jar)  
+
+---
