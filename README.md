@@ -12,18 +12,18 @@ Projects span different domains such as software development, game design, AI, a
 >
 > ⬇️ Below you'll find detailed overviews of each project I've worked on 📁 
 >
-> .
+>.
 ---
 
-## 📑 Project Index
+## 📑 Projects Index
 
-- [Pomegranade Limbo](#-pomegranade-limbo)
-- [Blindrun](#-blindrun)
-- [MegaMan Battle Network Full Synchro](#-megaman-battle-network--full-synchro)
-- [WatchOut](#-watchout)
-- [Drunk Stride](#-drunk-stride)
-- [Blades in the Dark Bot – Telegram Assistant for Tabletop RPGs](#-blades-in-the-dark-bot--telegram-assistant-for-tabletop-rpgs)
-- [Masters of Renaissance – Digital Edition Java Multiplayer](#-masters-of-renaissance--digital-edition-java-multiplayer)
+>- [Pomegranade Limbo](#-pomegranade-limbo)
+>- [Blindrun](#-blindrun)
+>- [MegaMan Battle Network Full Synchro](#-megaman-battle-network--full-synchro)
+>- [WatchOut](#-watchout)
+>- [Drunk Stride](#-drunk-stride)
+>- [Blades in the Dark Bot – Telegram Assistant for Tabletop RPGs](#-blades-in-the-dark-bot--telegram-assistant-for-tabletop-rpgs)
+>- [Masters of Renaissance – Digital Edition Java Multiplayer](#-masters-of-renaissance--digital-edition-java-multiplayer)
 
 ---
 
