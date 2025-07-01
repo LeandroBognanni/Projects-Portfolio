@@ -174,6 +174,7 @@ The project was completed individually and aimed to demonstrate understanding of
 For more information see the **Project Report** linked below.
 
 ### 🔗 Useful Links  
+- 🎞️ [Demo Video](https://drive.google.com/file/d/1ujFvLfvMSyzhhM5gYqgJi9DMe0GFx1Ux/view?usp=sharing)  
 - 📄 [Project Report](https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Documents/Drunk%20Stride-Project%20Report.pdf)
 - 🌐 [AI for Video Games Course Page](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/artificial-intelligence-video-games)  
 
