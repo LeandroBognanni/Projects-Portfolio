@@ -5,6 +5,8 @@ This repository contains a curated selection of personal and academic projects I
 Each project includes a description, purpose, technologies used, media links, and relevant documentation when available.  
 Projects span different domains such as software development, game design, AI, and creative prototyping.
 
+📧​ **[→ View My Contacts and Info](https://linktr.ee/LeandroBognanni)**  
+
 ---
 >.
 >
@@ -13,9 +15,19 @@ Projects span different domains such as software development, game design, AI, a
 > .
 ---
 
+## 📑 Project Index
 
+- [Pomegranade Limbo](#-pomegranade-limbo)
+- [Blindrun](#-blindrun)
+- [MegaMan Battle Network Full Synchro](#-megaman-battle-network--full-synchro)
+- [WatchOut](#-watchout)
+- [Drunk Stride](#-drunk-stride)
+- [Blades in the Dark Bot – Telegram Assistant for Tabletop RPGs](#-blades-in-the-dark-bot--telegram-assistant-for-tabletop-rpgs)
+- [Masters of Renaissance – Digital Edition Java Multiplayer](#-masters-of-renaissance--digital-edition-java-multiplayer)
 
-## 🎮​ Pomegranade: Limbo 👨‍💻​
+---
+
+## 🎮​ Pomegranade: Limbo 
 
 <p align="center">
   <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/copertina.png" 
@@ -57,7 +69,7 @@ For more details on the game design and especially the implementation of the wor
 
 ---
 
-## 🎮​ Blindrun 👨‍💻​
+## 🎮 Blindrun
 
 <p align="center">
   <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/BlindRun-Logo.png" 
@@ -98,7 +110,7 @@ The prototype currently features a fixed map and basic enemy AI, with plans for 
 
 ---
 
-## 🎮​ MegaMan Battle Network – Full Synchro 👨‍💻
+## 🎮​ MegaMan Battle Network – Full Synchro
 
 <p align="center">
   <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/MMBN_TitleScreen_Showcase.png" 
@@ -140,7 +152,7 @@ The project emphasizes tight mechanic integration, immersive VR interaction, and
 
 ---
 
-## ⌚​ WatchOut 👨‍💻​
+## 👨‍💻​ WatchOut
 
 <p align="center">
   <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/WatchOut-Logo.png" 
@@ -207,7 +219,7 @@ To see the full repository, the project specifics or my project presentation, pl
 
 ---
 
-## 🎮​ Drunk Stride 👨‍💻​
+## 🎮​ Drunk Stride​
 
 <p align="center">
   <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/DrunkStrider.png" 
@@ -247,7 +259,7 @@ For more information see the **Project Report** linked below.
 
 ---
 
-## 🤖​ Blades in the Dark Bot – Telegram Assistant for Tabletop RPGs 👨‍💻​
+## 🤖​ Blades in the Dark Bot – Telegram Assistant for Tabletop RPGs
 
 <p align="center">
   <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/Bot-BladesInTheDark-Cover.png" 
@@ -292,7 +304,7 @@ The project was developed in a team of three:
 
 ---
 
-## 🎮​ Masters of Renaissance – Digital Edition (Java Multiplayer) 👨‍💻​
+## 🎮👨‍💻​ Masters of Renaissance – Digital Edition (Java Multiplayer)​
 
 <p align="center">
   <img src="https://i2.wp.com/www.balenaludens.it/wp-content/uploads/2019/12/maestri-del-rinascimento.jpg?resize=1024%2C600&ssl=1" 
