@@ -160,7 +160,7 @@ The project emphasizes tight mechanic integration, immersive VR interaction, and
 </p>
 
 ### 🎯 Purpose  
-This project was developed as the final assignment for the **Distributed and Pervasive Systems** course within the Master’s Degree in **Computer Science** at the **University of Milan**.
+This project was developed as the final assignment for the **Distributed and Pervasive Systems (DPS)** course within the Master’s Degree in **Computer Science** at the **University of Milan**.
 
 The course explores the development of applications in distributed environments, with emphasis on **peer-to-peer coordination**, **concurrent communication**, and **context-aware computing** in pervasive systems. Students are introduced to **message-oriented middleware**, **RESTful interfaces**, and **gRPC communication**, focusing on both conceptual and implementation aspects.
 
@@ -215,7 +215,7 @@ To see the full repository, the project specifics or my project presentation, pl
 - 🔗 [GitHub Repository](https://github.com/LeandroBognanni/DPSproject_WatchOut)  
 - 📄 [Project Specification – PDF](https://github.com/LeandroBognanni/DPSproject_WatchOut/blob/master/Specific_updatedTo18-5-24.pdf)  
 - 🎞️ [Presentation Slides – PDF](https://github.com/LeandroBognanni/DPSproject_WatchOut/blob/master/ProjectPresentation.pdf)  
-- 🌐 [Course Page](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/distributed-and-pervasive-systems)
+- 🌐 [DPS Course Page](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/distributed-and-pervasive-systems)
 
 ---
 
