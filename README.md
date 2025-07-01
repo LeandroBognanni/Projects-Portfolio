@@ -73,7 +73,7 @@ For more details on the game design and especially the implementation of the wor
 
 <p align="center">
   <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/BlindRun-Logo.png" 
-  alt="Representative Image" width="350"/>
+  alt="Representative Image" width="450"/>
 </p>
 
 ### 🎯 Purpose  
@@ -114,7 +114,7 @@ The prototype currently features a fixed map and basic enemy AI, with plans for 
 
 <p align="center">
   <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/MMBN_TitleScreen_Showcase.png" 
-  alt="Representative Image" width="350"/>
+  alt="Representative Image" width="450"/>
 </p>
 
 ### 🎯 Purpose  
@@ -223,7 +223,7 @@ To see the full repository, the project specifics or my project presentation, pl
 
 <p align="center">
   <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/DrunkStrider.png" 
-  alt="Representative Image" width="350"/>
+  alt="Representative Image" width="300"/>
 </p>
 
 ### 🎯 Purpose  
@@ -308,7 +308,7 @@ The project was developed in a team of three:
 
 <p align="center">
   <img src="https://i2.wp.com/www.balenaludens.it/wp-content/uploads/2019/12/maestri-del-rinascimento.jpg?resize=1024%2C600&ssl=1" 
-  alt="Representative Image" width="350"/>
+  alt="Representative Image" width="450"/>
 </p>
 
 ### 🎯 Purpose  
