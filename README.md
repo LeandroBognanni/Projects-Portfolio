@@ -136,7 +136,7 @@ The project emphasizes tight mechanic integration, immersive VR interaction, and
 
 ### 🔗 Useful Links  
 - 🎞️ [Demo Video](https://youtu.be/_tBflqcJfOI?si=eE_IQJeeLZzxlxhA)  
-- 📄 [Virtual Reality Course Page](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/realta-virtuale)  
+- 🌐 [Virtual Reality Course Page](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/realta-virtuale)  
 
 ---
 
@@ -174,8 +174,8 @@ The project was completed individually and aimed to demonstrate understanding of
 For more information see the **Project Report** linked below.
 
 ### 🔗 Useful Links  
+- 📄 [Project Report](https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Documents/Drunk%20Stride-Project%20Report.pdf)
 - 🌐 [AI for Video Games Course Page](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/artificial-intelligence-video-games)  
-- 📄 [Project Report](https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Documents/DrunkStride-Report.pdf)
 
 ---
 
