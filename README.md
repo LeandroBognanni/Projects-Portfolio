@@ -18,7 +18,7 @@ Projects span different domains such as software development, game design, AI, a
 ## 🎮​ Pomegranade: Limbo 👨‍💻​
 
 <p align="center">
-  <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/GameLogo.png" 
+  <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/copertina.png" 
   alt="Representative Image" width="350"/>
 </p>
 
@@ -54,6 +54,45 @@ For more details on the game design and especially the implementation of the wor
 - 📄 [GTD](https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Documents/GTD.pdf)
 - 🌐 [OGD Course Page](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/online-game-design)
 - 🌐 [NGD Page](http://ngd.unimi.it/)
+
+---
+
+## 🎮​ Blindrun 👨‍💻​
+
+<p align="center">
+  <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/BlindRun-Logo.png" 
+  alt="Representative Image" width="350"/>
+</p>
+
+### 🎯 Purpose  
+This project is currently under development and was started as the main assignment for the **Sound in Interaction** course.
+
+The course is part of the Master’s Degree in **Computer Science** at the **University of Milan**, and focuses on the design and application of **interactive sound techniques** in digital experiences.  
+Topics include signal-based and physical-model sound synthesis, spatial audio (e.g., reverberation, binaural rendering), perceptual and cognitive aspects of audio, and toolchains such as **Pure Data**, **FMOD**, and audio pipelines in **Unity** and other engines.
+
+### 🛠️ Technologies Used  
+- Language: `C#`  
+- Game Engine: `Unity`  
+- Tools & Platforms:  
+  - `FMOD Studio` (for real-time spatialized audio via 3D events)  
+  - `Unity XR Toolkit`, `OpenXR`  
+  - `Meta Quest 2` headset (standalone mode)  
+  - `GitHub` (for solo development and version tracking)
+
+### 🎫 Project Description  
+**Blindrun** is an experimental VR game inspired by the classic game of blind man's bluff (*mosca cieca*), where the player must rely entirely on **sound** and **touch** to navigate and win.
+
+Set in an indoor environment (currently a futuristic sci-fi factory), the player is **completely blind**—no visuals are provided beyond the immediate outline of their **hands**. These hands are used to explore the world by physically touching surfaces and objects.  
+When an object is touched, a custom **shader effect** reveals only the exact contact area in partial transparency, simulating the sense of **tactile perception** in an otherwise invisible world.
+
+The objective is to **locate and tag all NPCs** in the environment. NPCs generate distinct, spatialized sounds as they move, speak, or interact with the environment. Each NPC has a different behavior: some hide, some flee, and others move erratically. The player must listen carefully, **interpret spatial audio cues**, and physically move toward the sound source to touch and “eliminate” the NPC.
+
+Movement is fully embodied: players must **simulate running** by moving their VR controllers up and down like real arms. Navigating effectively requires combining proprioception, haptic feedback through hand contact, and a **precise awareness of 3D sound positioning**.
+
+The game is built around the use of **spatialized audio** as the primary gameplay mechanic. FMOD handles all sound logic, with plans to integrate **Resonance Audio** or **Meta’s spatial audio system** for realistic 3D sound propagation and occlusion effects.
+
+The prototype currently features a fixed map and basic enemy AI, with plans for future procedural level generation, multiple NPC archetypes, and progressively complex sound environments.
+
 
 ---
 
