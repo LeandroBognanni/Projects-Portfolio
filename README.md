@@ -226,12 +226,51 @@ This project was developed in a team of three:
 - [Leandro Bognanni](https://github.com/LeandroBognanni)  
 - [Gabriele Brenna](https://github.com/Gabriele-Brenna)
 
+---
+
+## 🤖​ Blades in the Dark Bot – Telegram Assistant for Tabletop RPGs 👨‍💻​
+
+<p align="center">
+  <img src="link-to-image.jpg" 
+  alt="Representative Image" width="350"/>
+</p>
+
+### 🎯 Purpose  
+This project was developed as part of a freely chosen elective course during the **Bachelor’s Degree in Computer Engineering** at **Politecnico di Milano**.
+
+The assignment required the creation of an interactive bot in **Python** capable of supporting players in conducting and managing **tabletop role-playing game (TTRPG)** sessions entirely through **Telegram**.  
+Our group selected the game *Blades in the Dark* as a reference system, aiming to fully adapt its mechanics into an intuitive chat-based assistant.
+
+### 🛠️ Technologies Used  
+- Language: `Python`  
+- Libraries & Tools:  
+  - `python-telegram-bot` (core conversation handling)  
+  - `sqlite3` (persistent data storage)  
+  - `Pillow` (for generating visual character/crew sheets as PNGs)  
+  - `BeautifulSoup`, `SVG`, `JavaScript` (for dynamic journal and interactive maps)  
+  - `GitHub` (collaborative development and version control)
+
+### 🎫 Project Description  
+**Blades in the Dark Bot** is a Telegram bot designed to assist players and game masters in managing long-form role-playing campaigns, specifically for *Blades in the Dark*. The bot supports the entire flow of a campaign through Telegram chat, with a focus on accessibility, automation, and narrative structure.
+
+Main features include:
+- Creation and management of **campaigns**, **player characters**, and **crews**
+- Management of **game clocks**, **resource counters**, and **dice rolls**
+- Custom **character sheet generation** in image format, dynamically updated and delivered in-chat
+- **Interactive journal system**: stores mission logs and events with dynamic links between entries
+- A **narrative map interface** (HTML/JS based) that synchronizes with the journal, showing locations and clickable references to past events
+- Multi-user support with **access restrictions**, allowing multiple players to interact asynchronously within the same campaign
+- Persistent storage via **SQLite database**, ensuring data is preserved and queryable over long campaigns
+
+The project was developed in a team of three:
+
+- [Niccolò Bergamaschi](https://github.com/Niccolo-Bergamaschi)  
+- [Leandro Bognanni](https://github.com/LeandroBognanni)  
+- [Gabriele Brenna](https://github.com/Gabriele-Brenna)
+
 ### 🔗 Useful Links  
-- 🔗 [GitHub Repository](https://github.com/Gabriele-Brenna/ingswAM2021-Bognanni-Brenna-Bergamaschi)  
-- 📄 [JavaDoc Documentation](https://github.com/Gabriele-Brenna/ingswAM2021-Bognanni-Brenna-Bergamaschi/tree/main/Deliveries/JavaDoc)  
-- 📊 [Coverage Report](https://github.com/Gabriele-Brenna/ingswAM2021-Bognanni-Brenna-Bergamaschi/tree/main/Deliveries/Report)  
-- 🧩 [Initial UML](https://github.com/Gabriele-Brenna/ingswAM2021-Bognanni-Brenna-Bergamaschi/tree/main/Deliveries/UML/initialUML)  
-- 🧩 [Final UML](https://github.com/Gabriele-Brenna/ingswAM2021-Bognanni-Brenna-Bergamaschi/tree/main/Deliveries/UML/finalUML)  
-- 🧪 [JAR Executables](https://github.com/Gabriele-Brenna/ingswAM2021-Bognanni-Brenna-Bergamaschi/tree/main/Deliveries/Jar)  
+- 📄 [Full Project Report – PDF](https://link-to-pdf)  
+- 🌐 [Telegram Bot Page / Demo Site](https://link-if-any)
 
 ---
+
