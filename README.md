@@ -143,7 +143,7 @@ The project emphasizes tight mechanic integration, immersive VR interaction, and
 ## ⌚​ WatchOut 👨‍💻​
 
 <p align="center">
-  <img src="link-to-image.jpg" 
+  <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/WatchOut-Logo.png" 
   alt="Representative Image" width="350"/>
 </p>
 
