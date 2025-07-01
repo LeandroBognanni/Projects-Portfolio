@@ -140,6 +140,73 @@ The project emphasizes tight mechanic integration, immersive VR interaction, and
 
 ---
 
+## ⌚​ WatchOut 👨‍💻​
+
+<p align="center">
+  <img src="link-to-image.jpg" 
+  alt="Representative Image" width="350"/>
+</p>
+
+### 🎯 Purpose  
+This project was developed as the final assignment for the **Distributed and Pervasive Systems** course within the Master’s Degree in **Computer Science** at the **University of Milan**.
+
+The course explores the development of applications in distributed environments, with emphasis on **peer-to-peer coordination**, **concurrent communication**, and **context-aware computing** in pervasive systems. Students are introduced to **message-oriented middleware**, **RESTful interfaces**, and **gRPC communication**, focusing on both conceptual and implementation aspects.
+
+### 🛠️ Technologies Used  
+- Language: `Java`  
+- Communication Middleware:  
+  - `gRPC` (peer-to-peer coordination and election algorithms)  
+  - `MQTT` (game start and messaging broker)  
+  - `REST API` (server communication, health monitoring)  
+- Tools & Platforms:  
+  - `Mosquitto Broker`
+  - `Advanced REST Client`  
+  - `Kotlin` 
+
+### 🎫 Project Description  
+**WatchOut** is a distributed software system simulating a multiplayer smart-device environment. The goal was to design and implement a realistic, autonomous coordination protocol among smartwatch devices, which act as virtual participants in a hide-and-seek–style simulation.
+
+Key Components:
+
+- **Player Process (Smartwatch Simulation)**  
+  Each instance autonomously:
+  - Registers with a central **Administration Server**
+  - Coordinates with other peers via `gRPC` to:
+    - Elect a seeker (based on distance to the virtual home base)
+    - Request and grant mutual access to the **home base**
+  - Sends simulated **heart rate data** using a sliding-window average to the server via `REST`
+
+- **Administration Server**  
+  Central service responsible for:
+  - Registering new smartwatch clients
+  - Storing and exposing player health data
+  - Providing REST endpoints for external monitoring and analysis
+
+- **Administration Client**  
+  CLI-based admin tool to:
+  - Send game start signals via `MQTT`
+  - Broadcast messages to players
+  - Query individual and aggregated heart rate data via REST
+
+System Mechanics:
+
+- **Seeker Election**: Distributed algorithm that selects a seeker based on the distance to the base. Ties are resolved by ID.
+- **Home Base Mutual Exclusion**: A coordination protocol ensures that only one player can access the base at a time, simulating critical section access.
+- **Dynamic Participation**: New peers can register mid-simulation and integrate into the system flow.
+- **Health Monitoring**: Simulated heartbeat data is continuously tracked and made available for monitoring and evaluation.
+
+The system was developed individually and demonstrates the application of **distributed coordination**, **event-driven middleware**, and **sensor-like data integration** in a pervasive computing scenario.
+
+To see the full repository, the project specifics or my project presentation, please refer to the links below.
+
+### 🔗 Useful Links  
+- 🔗 [GitHub Repository](https://github.com/LeandroBognanni/DPSproject_WatchOut)  
+- 📄 [Project Specification – PDF](https://github.com/LeandroBognanni/DPSproject_WatchOut/blob/master/Specific_updatedTo18-5-24.pdf)  
+- 🎞️ [Presentation Slides – PDF](https://github.com/LeandroBognanni/DPSproject_WatchOut/blob/master/ProjectPresentation.pdf)  
+- 🌐 [Course Page](https://www.unimi.it/it/corsi/insegnamenti-dei-corsi-di-laurea/2025/distributed-and-pervasive-systems)
+
+---
+
 ## 🎮​ Drunk Stride 👨‍💻​
 
 <p align="center">
