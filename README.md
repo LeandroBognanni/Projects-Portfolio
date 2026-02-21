@@ -92,7 +92,7 @@ Audio plays a central role in feedback and engagement. FMOD is used to manage UI
 ## 👨‍💻 TILE – Tool for Interactive Level Editing <a id="tile"></a>
 
 <p align="center">
-  <img src="https://example.com/TILE-placeholder.png" 
+  <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/Tile-title.png" 
   alt="Representative Image" width="450"/>
 </p>
 
