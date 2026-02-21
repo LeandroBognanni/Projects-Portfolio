@@ -84,7 +84,7 @@ The game also features:
 Audio plays a central role in feedback and engagement. FMOD is used to manage UI sounds, gameplay effects, music, and dynamic feedback layers, ensuring clear auditory cues aligned with player performance.
 
 ### 🔗 Useful Links  
-- 🎞️ [Demo Clip](https://youtu.be/placeholder_keyrhythm_demo)  
+- 🎞️ [Demo Clip ***(Coming Soon)***](https://youtu.be/placeholder_keyrhythm_demo)  
 - 📄 [Educator](https://drive.google.com/file/d/1YGorXGCdQeC89f-Z0707ZF9LbHdFMhva/view?usp=sharing)  
 
 ---
