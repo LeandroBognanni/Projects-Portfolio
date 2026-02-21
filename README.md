@@ -10,14 +10,16 @@ Projects span different domains such as software development, game design, AI, a
 ---
 >.
 >
-> ⬇️ Below you'll find detailed overviews of each project I've worked on 📁 
+> ⬇️ Below you'll find detailed overviews of each project I've worked on ***presented from the most recent to the oldest***. 📁 
 >
 >.
 ---
 
-## 📑 Projects Index
+## 📑 Projects Index 
 
->- [Pomegranade Limbo](#-pomegranade-limbo)
+>- [KK Hero](#-kk-hero--educational-typing-rhythm-game)
+>- [TILE](#-tile--tool-for-interactive-level-editing)
+>- [Pomegranade: Limbo](#-pomegranade-limbo)
 >- [Blindrun](#-blindrun)
 >- [MegaMan Battle Network Full Synchro](#-megaman-battle-network--full-synchro)
 >- [WatchOut](#-watchout)
@@ -27,8 +29,115 @@ Projects span different domains such as software development, game design, AI, a
 
 ---
 
-## 🎮​ Pomegranade: Limbo 
+## 🎮 KK Hero – Educational Typing Rhythm Game
 
+<p align="center">
+  <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/KKHero-logo.png" 
+  alt="Representative Image" width="650"/>
+</p>
+
+### 🎯 Purpose  
+This project was developed as an **individual educational game project**, created in collaboration with an educator as part of a pedagogical research initiative.
+
+The goal was to design a **gamified learning experience** aimed at teaching and reinforcing **keyboard usage and typing skills**, using the engaging mechanics of rhythm games.  
+The project was developed to support an educational thesis in **Pedagogical Sciences**, with the game acting as an interactive tool that can be adapted to different learners and learning objectives.
+
+Particular attention was given to **accessibility**, **customizability**, and **progressive difficulty**, allowing educators to fine-tune the experience according to the player’s needs.
+
+### 🛠️ Technologies Used  
+- Language: `C#`  
+- Game Engine: `Unity`  
+- Tools & Platforms:  
+  - `FMOD Studio` (advanced audio management, bus-based mixing, dynamic feedback)  
+  - `GitHub` (solo development, version control)
+
+### 🎫 Project Description  
+**KeyboardKeys Hero** is an educational rhythm game inspired by titles like *Guitar Hero*, where players must press the correct keys on the keyboard in sync with on-screen visual cues.
+
+Keys scroll down vertical lanes and must be pressed **at the precise moment** they cross a target area.  
+The scoring system rewards precision and consistency, introducing layered mechanics to keep the experience engaging:
+
+- **Perfect timing system**: precise inputs grant *PERFECT* hits  
+- **Perfect streaks**: consecutive perfect hits activate visual effects and score multipliers  
+- **Lane streaks**: maintaining error-free input on a single lane ignites it, granting bonus points  
+- **Special elements**:
+  - Wide spacebar keys
+  - Rapid key sequences that must be executed without interruption (used to simulate writing of a word)
+
+A key aspect of the project is its **deep configurability**.  
+Through an extensive options menu, educators can:
+
+- Adjust difficulty and speed
+- Control randomness and spawn frequency
+- Enable or disable specific letters
+- Introduce or remove advanced mechanics such as sequences or long notes
+
+Each option includes contextual explanations, making the system accessible even to non-technical users.
+The entire options UI system is created through a custom system that allows the construction of UI elements on-the-fly allowing to expose any type of parameter from code directly to user.
+
+The game also features:
+- A **match history and records system**
+- Player nickname entry at the end of each match
+- Persistent data storage via PlayerPrefs
+- A modular architecture designed for future expansion
+
+Audio plays a central role in feedback and engagement. FMOD is used to manage UI sounds, gameplay effects, music, and dynamic feedback layers, ensuring clear auditory cues aligned with player performance.
+
+### 🔗 Useful Links  
+- 🎞️ [Demo Clip](https://youtu.be/placeholder_keyrhythm_demo)  
+- 📄 [Educator](https://drive.google.com/file/d/1YGorXGCdQeC89f-Z0707ZF9LbHdFMhva/view?usp=sharing)  
+
+---
+
+## 🧱🛠️ TILE – Tool for Interactive Level Editing
+
+<p align="center">
+  <img src="https://example.com/TILE-placeholder.png" 
+  alt="Representative Image" width="450"/>
+</p>
+
+### 🎯 Purpose  
+This project was developed as the main assignment for the **Computational Geometry** course within the Master’s Degree in **Computer Science** at the **University of Milan**.
+
+The goal was to design and implement an **interactive voxel-based terrain editing tool** that applies concepts of **computational geometry** in a practical, real-time environment, combining **formal geometric precision** with flexible and intuitive user interaction.
+
+### 🛠️ Technologies Used  
+- Language: `C#`  
+- Engine: `Unity`  
+- Tools & Platforms:  
+  - `GitHub` (version control and collaboration)  
+  - `WebGL` (browser-based interactive applet)
+
+### 🎫 Project Description  
+**TILE (Tool for Interactive Level Editing)** is a voxel-oriented terrain editing software developed in Unity.  
+The system provides a set of interactive tools based on **Bézier surfaces**, **Bézier curves**, and **splines**, allowing users to sculpt, refine, and optimize terrain geometry with a high degree of control.
+
+The available tools support:
+- Terrain modeling through smooth, mathematically controlled surfaces  
+- Rapid creation of complex structures and linear features  
+- Localized refinement and detail optimization  
+
+Each tool exposes multiple **configurable parameters** that influence its behavior, such as **intensity**, **area of influence**, and update resolution.  
+This design allows the same tools to adapt to different use cases—from coarse terrain shaping to precise adjustments—without enforcing rigid workflows.
+
+The application includes a modular UI with dedicated panels for **global terrain settings**, **tool selection**, and **tool-specific options**, designed to keep the editing process clear and efficient.  
+Undo/redo functionality and configurable terrain limits help prevent undesired modifications during experimentation.
+
+Once the desired terrain is completed, the system allows users to **export the generated model**, making it reusable in external software or other Unity projects.
+
+The project was developed by:
+- [Leandro Bognanni](https://github.com/LeandroBognanni)  
+- [Gabriele Brenna](https://github.com/Gabriele-Brenna)
+
+### 🔗 Useful Links  
+- 🌐 [TILE Web Page (Applet, Manual & Theory)](https://sites.unimi.it/albertoalzati/geocomp2025/tile/index.html)
+- 🌐 [Computational Geometry Course Page](http://www.mat.unimi.it/users/alzati/Geometria_Computazionale_98-99/)
+- 🎞️ [Video Tutorial & Showcase](https://youtu.be/UkkIRQurKls)  
+
+---
+
+## 🎮​ Pomegranade: Limbo 
+*🏆 Third Place – New Game Designer 2025*
 <p align="center">
   <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/copertina.png" 
   alt="Representative Image" width="350"/>
