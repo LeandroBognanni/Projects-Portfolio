@@ -17,19 +17,19 @@ Projects span different domains such as software development, game design, AI, a
 
 ## 📑 Projects Index 
 
->- [KK Hero](#-kk-hero--educational-typing-rhythm-game)
->- [TILE](#-tile--tool-for-interactive-level-editing)
->- [Pomegranade: Limbo](#-pomegranade-limbo)
->- [Blindrun](#-blindrun)
->- [MegaMan Battle Network Full Synchro](#-megaman-battle-network--full-synchro)
->- [WatchOut](#-watchout)
->- [Drunk Stride](#-drunk-stride)
->- [Blades in the Dark Bot – Telegram Assistant for Tabletop RPGs](#-blades-in-the-dark-bot--telegram-assistant-for-tabletop-rpgs)
->- [Masters of Renaissance – Digital Edition Java Multiplayer](#-masters-of-renaissance--digital-edition-java-multiplayer)
+>- [KK Hero](#kkhero)
+>- [TILE](#tile)
+>- [Pomegranade: Limbo](#pomegranadelimbo)
+>- [Blindrun](#blindrun)
+>- [MegaMan Battle Network – Full Synchro](#mmbnfs)
+>- [WatchOut](#watchout)
+>- [Drunk Stride](#drunkstride)
+>- [Blades in the Dark Bot – Telegram Assistant for Tabletop RPGs](#bitd)
+>- [Masters of Renaissance – Digital Edition (Java Multiplayer)](#mastersofrenaissance)
 
 ---
 
-## 🎮 KK Hero – Educational Typing Rhythm Game
+## 🎮 KK Hero – Educational Typing Rhythm Game <a id="kkhero"></a>
 
 <p align="center">
   <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/KKHero-logo.png" 
@@ -89,7 +89,7 @@ Audio plays a central role in feedback and engagement. FMOD is used to manage UI
 
 ---
 
-## 👨‍💻 TILE – Tool for Interactive Level Editing
+## 👨‍💻 TILE – Tool for Interactive Level Editing <a id="tile"></a>
 
 <p align="center">
   <img src="https://example.com/TILE-placeholder.png" 
@@ -136,7 +136,7 @@ The project was developed by:
 
 ---
 
-## 🎮​ Pomegranade: Limbo 
+## 🎮​ Pomegranade: Limbo <a id="pomegranadelimbo"></a> 
 *🏆 Third Place – New Game Designer 2025*
 <p align="center">
   <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/copertina.png" 
@@ -178,7 +178,7 @@ For more details on the game design and especially the implementation of the wor
 
 ---
 
-## 🎮 Blindrun
+## 🎮 Blindrun <a id="blindrun"></a>
 
 <p align="center">
   <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/BlindRun-Logo.png" 
@@ -219,7 +219,7 @@ The prototype currently features a fixed map and basic enemy AI, with plans for 
 
 ---
 
-## 🎮​ MegaMan Battle Network – Full Synchro
+## 🎮​ MegaMan Battle Network – Full Synchro <a id="mmbnfs"></a>
 
 <p align="center">
   <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/MMBN_TitleScreen_Showcase.png" 
@@ -261,7 +261,7 @@ The project emphasizes tight mechanic integration, immersive VR interaction, and
 
 ---
 
-## 👨‍💻​ WatchOut
+## 👨‍💻​ WatchOut <a id="watchout"></a>
 
 <p align="center">
   <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/WatchOut-Logo.png" 
@@ -328,7 +328,7 @@ To see the full repository, the project specifics or my project presentation, pl
 
 ---
 
-## 🎮​ Drunk Stride​
+## 🎮​ Drunk Stride <a id="drunkstride"></a>​
 
 <p align="center">
   <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/DrunkStrider.png" 
@@ -368,7 +368,7 @@ For more information see the **Project Report** linked below.
 
 ---
 
-## 🤖​ Blades in the Dark Bot – Telegram Assistant for Tabletop RPGs
+## 🤖​ Blades in the Dark Bot – Telegram Assistant for Tabletop RPGs <a id="bitd"></a>
 
 <p align="center">
   <img src="https://github.com/LeandroBognanni/Projects-Portfolio/blob/main/Images/Bot-BladesInTheDark-Cover.png" 
@@ -413,7 +413,7 @@ The project was developed in a team of three:
 
 ---
 
-## 🎮👨‍💻​ Masters of Renaissance – Digital Edition (Java Multiplayer)​
+## 🎮👨‍💻​ Masters of Renaissance – Digital Edition (Java Multiplayer) <a id="mastersofrenaissance"></a>​
 
 <p align="center">
   <img src="https://i2.wp.com/www.balenaludens.it/wp-content/uploads/2019/12/maestri-del-rinascimento.jpg?resize=1024%2C600&ssl=1" 
